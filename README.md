@@ -19,10 +19,7 @@
 
 
 <!-- shields.io -->
-<p align="left"> <img src="https://img.shields.io/github/languages/count/kavindukalinga/Automatic-waterplanting-system
-" alt="kavindukalinga" /> <img src="https://img.shields.io/github/languages/top/kavindukalinga/Automatic-waterplanting-system
-" alt="kavindukalinga" /> <img src="https://img.shields.io/github/last-commit/kavindukalinga/Automatic-waterplanting-system
-" alt="kavindukalinga" /></a> </p>
+<p align="left"> <img src="https://img.shields.io/github/languages/count/kavindukalinga/Automatic-waterplanting-system" alt="kavindukalinga" /> <img src="https://img.shields.io/github/languages/top/kavindukalinga/Automatic-waterplanting-system" alt="kavindukalinga" /> <img src="https://img.shields.io/github/last-commit/kavindukalinga/Automatic-waterplanting-system" alt="kavindukalinga" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
