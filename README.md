@@ -1,27 +1,21 @@
 # Automatic-waterplanting-system
  This is the project we chose for the Engineering design project module in semester 2. (In20-S2-EN1190 - Engineering Design Project)
  
- This is a full analog project, therefore no microcontrollers and no codes.
+## our project 
 
-
-# My-Python
-My free time python codes are here. Feel free to refer or get them without asking.
-
-## python
-
->Python is a programming language that lets you work more quickly and integrate your systems more effectively.  
->You can learn to use Python and see almost immediate gains in productivity and lower maintenance costs.  
+>This is a full analog project. 
+>Therefore no microcontrollers and no codes. 
 >Whether you're new to programming or an experienced developer, it's easy to learn and use Python.  
 >The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers.  
 
-## Use Python for…
+## Used for…
 1. Web Development: Django, Pyramid, Bottle, Tornado, Flask, web2py \n
 2. GUI Development: tkInter, PyGObject, PyQt, PySide, Kivy, wxPython
 3. Scientific and Numeric: SciPy, Pandas, IPython
 4. Software Development: Buildbot, Trac, Roundup
 5. System Administration: Ansible, Salt, OpenStack, xonsh
 
-### Python.org [website](https://www.python.org/)
+### More about our project [website](https://www.python.org/)
 
 
 <!-- shields.io -->
