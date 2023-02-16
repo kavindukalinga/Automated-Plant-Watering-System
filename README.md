@@ -15,11 +15,11 @@
 4. Software Development: Buildbot, Trac, Roundup
 5. System Administration: Ansible, Salt, OpenStack, xonsh
 
-### More about our project [website](https://www.python.org/)
+### More about our project [Here](https://kalingachandrasiri.blogspot.com/2023/02/automated-plant-watering-system.html)
 
 
 <!-- shields.io -->
-<p align="left"> <img src="https://img.shields.io/github/languages/count/kavindukalinga/Automatic-waterplanting-system" alt="kavindukalinga" /> <img src="https://img.shields.io/github/languages/top/kavindukalinga/Automatic-waterplanting-system" alt="kavindukalinga" /> <img src="https://img.shields.io/github/last-commit/kavindukalinga/Automatic-waterplanting-system" alt="kavindukalinga" /></a> </p>
+<p align="left"> <img src="https://img.shields.io/github/languages/count/kavindukalinga/Automated-Plant-Watering-System" alt="kavindukalinga" /> <img src="https://img.shields.io/github/languages/top/kavindukalinga/Automated-Plant-Watering-System" alt="kavindukalinga" /> <img src="https://img.shields.io/github/last-commit/kavindukalinga/Automated-Plant-Watering-System" alt="kavindukalinga" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
